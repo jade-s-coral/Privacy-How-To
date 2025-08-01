@@ -1,5 +1,11 @@
 # Sources
+Kinda Garbage:
 https://reintech.io/blog/configuring-luks-encrypted-disk-debian-12
+https://www.golinuxcloud.com/how-to-encrypt-hard-disk-partition-luks-linux/
+
+https://www.redhat.com/en/blog/disk-encryption-luks
+Good link:
+https://askmeaboutlinux.com/2022/04/17/how-to-create-and-use-luks-encrypted-partition-in-linux/
 
 # Notes
 
